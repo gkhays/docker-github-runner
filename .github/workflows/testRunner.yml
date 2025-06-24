@@ -12,5 +12,3 @@ jobs:
       uses: hashicorp/setup-terraform@v3.1.1
     - name: Display Terraform Version
       run: terraform --version
-    - name: Display Azure-CLI Version
-      run: az --version
