@@ -1,0 +1,6 @@
+# Docker variables
+*.env
+.env
+
+# VSCode
+.vscode/
